@@ -56,7 +56,6 @@ com.creaturecoding.libcspreferences
 com.creaturecoding.shuffle
 com.creaturesurvive.libcscolorpicker
 com.daniel63194.cabello
-com.deabcrazy.noncesetter
 com.dta.delta13
 com.ex.substitute
 com.exile90.icleanerpro
@@ -158,7 +157,6 @@ com.myxxdev.badabing
 com.myxxdev.shutupcr4shed
 com.nahtedetihw.magsafe
 com.nicho1asdev.flatpicker
-com.nicho1asdev.quitall
 com.nicho1asdev.saferespring
 com.opa334.altlist
 com.opa334.ccsupport
